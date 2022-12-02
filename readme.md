@@ -1,7 +1,11 @@
 ### Tecnologias
 
+* Node.js
 * Cypress
 
+### Preparo do projeto
+
+* Modifique o arquivo  cypress.env - Exemplo.json  para  cypress.env.json
 
 ### Execução do projeto
 
