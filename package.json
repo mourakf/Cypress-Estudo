@@ -1,0 +1,19 @@
+{
+  "name": "teste-com-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.0"
+  },
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "mochawesome": "^7.1.3"
+  },
+  "scripts": {
+    "test": "npx cypress open",
+    "dev": "npx cypress run"
+  },
+  "author": "",
+  "license": "ISC"
+}
